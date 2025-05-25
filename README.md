@@ -42,12 +42,9 @@ A tech enthusiast who believes in continuous learning and the power of creative 
 
 ## 🌐 Connect With Me
 
-<!-- Add your social links here when ready! -->
-<!--
-- [LinkedIn](#)
-- [Twitter/X](#)
-- [Portfolio](#)
--->
+
+- [LinkedIn](https://www.linkedin.com/in/abhishek-anand-a9379b272/) Abhishek Anand
+
 
 ---
 
