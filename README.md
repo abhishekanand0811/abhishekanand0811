@@ -1,9 +1,8 @@
 # Hi there, I'm Abhishek Anand 👋
 
 🎓 **Final Year Student @ Amrita Vishwa Vidyapeetham**  
-🔭 Passionate about building intelligent solutions with **Python**, **Machine Learning**, and strong software engineering principles.
-- https://abhishekanandportfolio.netlify.app/ - Personal Portfolio Website
-
+🔭 Passionate about building intelligent solutions with **Python**, **Machine Learning**, and strong **Software Developing** principles.  
+🌐 [My Portfolio](https://abhishekanandportfolio.netlify.app/)
 
 ---
 
@@ -19,8 +18,8 @@
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python  
-- **Expertise:** Machine Learning, Software Engineering  
+- **Programming Languages:** Python, HTML, CSS  
+- **Expertise:** Machine Learning, Software Development, Web Development
 - **Other:** Problem Solving, Collaboration, Learning New Tech
 
 ---
@@ -35,18 +34,16 @@ A tech enthusiast who believes in continuous learning and the power of creative 
 
 ## 🎯 Beyond Coding
 
-- 📺 Watching series
-- 📚 Reading
-- ♟️ Playing chess
+- 📺 Watching series  
+- 📚 Reading  
+- ♟️ Playing chess  
 - 🏏 Cricket fan
 
 ---
 
 ## 🌐 Connect With Me
 
-
 - [LinkedIn](https://www.linkedin.com/in/abhishek-anand-a9379b272/) Abhishek Anand
-
 
 ---
 
